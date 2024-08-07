@@ -10,11 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@reach/combobox": "^0.18.0",
     "@react-google-maps/api": "^2.19.3",
+    "leaflet": "^1.9.4",
+    "leaflet.gridlayer.googlemutant": "^0.14.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "use-places-autocomplete": "^4.0.1"
+    "react-leaflet": "^4.2.1"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
